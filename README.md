@@ -14,12 +14,6 @@ DigitMind 🧠 is a Python-based web app that recognizes handwritten digits in r
 
 ---
 
-## Demo
-
-![DigitMind Screenshot](./preview.png)
-
----
-
 ## Installation
 
 1. Clone the repository:
@@ -80,11 +74,5 @@ DigitMind/
 
 ## Author
 
-Created by [Your Name]. Contributions and feedback welcome!
-
----
-
-## License
-
-MIT License
+Created by ReNothing. Contributions and feedback welcome!
 
